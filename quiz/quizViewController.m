@@ -9,7 +9,9 @@
 #import "quizViewController.h"
 
 @interface quizViewController ()
-
+enum {
+    sirangana
+};
 @end
 
 @implementation quizViewController
